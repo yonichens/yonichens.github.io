@@ -10,7 +10,9 @@ before_install:
     - chmod +x ./publish-to-gh-pages.sh  # 为shell文件添加可执行权限
 install:
     - npm install # 安装hexo及插件
+    - npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
 script:
+    - git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
     - hexo clean # 清除
     - hexo g # 生成
 after_script:
