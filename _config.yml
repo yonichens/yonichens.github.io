@@ -19,6 +19,8 @@ theme_config:
     enable: true
     number: true
     wrap: false
+  disqus: https-yonichens-github-io
+
 
 # Site
 title: tsukiever
@@ -33,7 +35,7 @@ timezone: UTC
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://yonichens.github.io
 root: /
-permalink: archives/:category/:title/
+permalink: archives/:title/
 permalink_defaults:
   lang: en
 
@@ -110,8 +112,6 @@ deploy:
   type: git
   repository: https://github.com/yonichens/yonichens.github.io.git
   branch: master
-
-disqus: yonichens
 
 # Google Analytics
 google_analytics: UA-148845148-1
