@@ -20,6 +20,9 @@ theme_config:
     number: true
     wrap: false
   disqus: https-yonichens-github-io
+  # Analytics
+  # google-analytics:
+  ga: UA-148845148-1
 
 
 # Site
