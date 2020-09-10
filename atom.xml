@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yonichens.github.io/"/>
-  <updated>2020-09-10T09:12:17.820Z</updated>
+  <updated>2020-09-10T09:31:02.946Z</updated>
   <id>https://yonichens.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yonichens.github.io/archives/Travis-CI-test/"/>
     <id>https://yonichens.github.io/archives/Travis-CI-test/</id>
     <published>2019-09-28T01:56:27.000Z</published>
-    <updated>2020-09-10T09:12:17.820Z</updated>
+    <updated>2020-09-10T09:31:02.946Z</updated>
     
     <content type="html"><![CDATA[<p>yonichens.github.io 使用 <b>hexo + github pages</b> 搭建，并用Travis CI进行自动化构建  </p><p>master分支作为部署分支，hexo用于文件备份<br>.travis.yml 作为自动化构建脚本<br>.config.yml 为blog相关配置</p><p>所有目录结构可参考：</p><blockquote><p><a href="https://github.com/yonichens/yonichens.github.io" target="_blank" rel="noopener">https://github.com/yonichens/yonichens.github.io</a></p></blockquote>]]></content>
     
