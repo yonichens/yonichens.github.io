@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tsukiever</title>
+  
+  <subtitle>Life is to collect, organize and mess up.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yonichens.github.io/"/>
+  <updated>2020-09-10T07:55:05.280Z</updated>
+  <id>https://yonichens.github.io/</id>
+  
+  <author>
+    <name>yonichens</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Travis CI test again.</title>
+    <link href="https://yonichens.github.io/archives/Travis-CI-test-again/"/>
+    <id>https://yonichens.github.io/archives/Travis-CI-test-again/</id>
+    <published>2019-09-28T02:25:28.000Z</published>
+    <updated>2020-09-10T07:55:05.280Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Travis CI test.</title>
+    <link href="https://yonichens.github.io/archives/Travis-CI-test/"/>
+    <id>https://yonichens.github.io/archives/Travis-CI-test/</id>
+    <published>2019-09-28T01:56:27.000Z</published>
+    <updated>2020-09-10T07:55:05.280Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Wolrd</title>
+    <link href="https://yonichens.github.io/archives/hello-world/"/>
+    <id>https://yonichens.github.io/archives/hello-world/</id>
+    <published>2019-09-26T10:10:46.000Z</published>
+    <updated>2020-09-10T07:55:05.281Z</updated>
+    
+    <content type="html"><![CDATA[<p>迫于一些个人原因，准备整理一下至今为止的破破烂烂，上线了这个 blog，之前只写过动态博客（并且是帮别人发布的搞算命的内容（并不想！！，这次决定用用 hexo，也是打算找点事情给自己做。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;迫于一些个人原因，准备整理一下至今为止的破破烂烂，上线了这个 blog，之前只写过动态博客（并且是帮别人发布的搞算命的内容（并不想！！，这次决定用用 hexo，也是打算找点事情给自己做。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="blog" scheme="https://yonichens.github.io/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
