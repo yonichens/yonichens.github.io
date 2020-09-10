@@ -27,9 +27,9 @@ theme_config:
 
 # Site
 title: tsukiever
-subtitle: Life is to collect.
+subtitle: Life is to collect, organize and mess up.
 description:
-keywords: 协议识别
+keywords: 协议识别, Protocol identification, 渗透测试, Penetration test
 author: yonichens
 language: en
 timezone: UTC
@@ -60,7 +60,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
@@ -84,6 +84,8 @@ category_map:
 tag_map:
   Linux: Linux
   FOFA: FOFA
+  MSF: Metasploit
+  NMAP: NMAP
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
