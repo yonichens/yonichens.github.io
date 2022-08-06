@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>tsukiever</title>
+  
+  <subtitle>Life is to collect, organize and mess up with it.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yonichens.github.io/"/>
+  <updated>2022-08-06T01:03:35.150Z</updated>
+  <id>https://yonichens.github.io/</id>
+  
+  <author>
+    <name>yonichens</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Travis CI test.</title>
+    <link href="https://yonichens.github.io/archives/Travis-CI-test/"/>
+    <id>https://yonichens.github.io/archives/Travis-CI-test/</id>
+    <published>2019-09-28T01:56:27.000Z</published>
+    <updated>2022-08-06T01:03:35.150Z</updated>
+    
+    <content type="html"><![CDATA[<p>yonichens.github.io 使用 <b>hexo + github pages</b> 搭建，并用Travis CI进行自动化构建  </p><p>master分支作为部署分支，hexo用于文件备份<br>.travis.yml 作为自动化构建脚本<br>.config.yml 为blog相关配置</p><p>所有目录结构可参考：</p><blockquote><p><a href="https://github.com/yonichens/yonichens.github.io">https://github.com/yonichens/yonichens.github.io</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;yonichens.github.io 使用 &lt;b&gt;hexo + github pages&lt;/b&gt; 搭建，并用Travis CI进行自动化构建  &lt;/p&gt;
+&lt;p&gt;master分支作为部署分支，hexo用于文件备份&lt;br&gt;.travis.yml 作为自动化构建脚本&lt;br&gt;.c
+      
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="https://yonichens.github.io/categories/Blog/"/>
+    
+    
+      <category term="hexo, travis ci" scheme="https://yonichens.github.io/tags/hexo-travis-ci/"/>
+    
+  </entry>
+  
+</feed>
