@@ -1,4 +1,7 @@
+https://yonichens.github.io/archives/%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%A4%8F%E5%A4%A9%E7%9A%84%E7%A4%BC%E7%89%A9/
 https://yonichens.github.io/archives/Travis-CI-test/
 https://yonichens.github.io/
 https://yonichens.github.io/tags/hexo-travis-ci/
-https://yonichens.github.io/categories/Blog/
+https://yonichens.github.io/tags/walking/
+https://yonichens.github.io/categories/blog/
+https://yonichens.github.io/categories/mood/

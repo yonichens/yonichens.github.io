@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yonichens.github.io/"/>
-  <updated>2022-08-06T01:03:35.150Z</updated>
+  <updated>2023-05-27T16:13:42.527Z</updated>
   <id>https://yonichens.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>天空是夏天的礼物</title>
+    <link href="https://yonichens.github.io/archives/%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%A4%8F%E5%A4%A9%E7%9A%84%E7%A4%BC%E7%89%A9/"/>
+    <id>https://yonichens.github.io/archives/%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%A4%8F%E5%A4%A9%E7%9A%84%E7%A4%BC%E7%89%A9/</id>
+    <published>2023-05-27T00:13:13.000Z</published>
+    <updated>2023-05-27T16:13:42.527Z</updated>
+    
+    <content type="html"><![CDATA[<p>天气一天天热起来了。在白天和傍晚，天空是夏天的礼物，散步都在天黑以后，夏天的晚上很热闹。</p><p>在广场舞即将结束的点，和妈妈出门走到了蒸水边，城市的绿地不多，附近小区的人们在天黑后的每个点都有刚刚出门的和说说笑笑回家的。水边的绿化还不错。</p><p>我们下了两层台阶以后，头上是作为堤岸的斜坡，上面都铺满了绿草。我们路过了一小群滑草的小朋友，他们兴奋地从坡顶冲下来又立刻奔跑着上去，大人们也正对着孩子们站在坡底，开心地拍摄着。</p><p>接着是一片浅滩，这一块区域树苗长得不是特别高，是沿岸青蛙叫声最响亮的地方，和远处的蝉鸣唱和着，我自作主张地在这里停留了好一会，因为这块地方不怕有蚊子。继续往前，有一棵十分茂密的槐树，在槐树下给妈妈拍了照。</p><p>“拍得很好，这个景很美！！这个树就看着（看着就）很大很多”。</p><blockquote><p>excerpt:</p><p>“要是累了就得说啊。万一情况恶化了不就本末倒置了？我啊，一旦入迷就会拉着茉莉东跑西跑，还希望茉莉能提醒我。茉莉都不怎么说自己的情况，你的个性就是这样，在气氛热烈的时候不愿打扰到别人，但跟我说没关系的。虽然这样可能有点强人所难……”</p><p>执起久违的画笔时，一种不可思议的感觉袭来。自从开始画画，茉莉就变得充满活力，头脑清晰，吃东西时也能够感受到美味。</p><p>……类似的车轱辘话绕来绕去，逐渐煳成一摊黄油状。茉莉的脑子中仿佛也填满了黄油，煳成一团，而且开始烧焦。那股勾起食欲的香味早已散去，变成了扑鼻而来的某种难闻的焦黑气味。</p><p><i style="color:grey;"> ———— 小坂流加.《余命10年》.</i></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;天气一天天热起来了。在白天和傍晚，天空是夏天的礼物，散步都在天黑以后，夏天的晚上很热闹。&lt;/p&gt;
+&lt;p&gt;在广场舞即将结束的点，和妈妈出门走到了蒸水边，城市的绿地不多，附近小区的人们在天黑后的每个点都有刚刚出门的和说说笑笑回家的。水边的绿化还不错。&lt;/p&gt;
+&lt;p&gt;我们下了两层
+      
+    
+    </summary>
+    
+    
+      <category term="Mood" scheme="https://yonichens.github.io/categories/mood/"/>
+    
+    
+      <category term="walking" scheme="https://yonichens.github.io/tags/walking/"/>
+    
+  </entry>
   
   <entry>
     <title>Travis CI test.</title>
@@ -36,7 +64,7 @@
     </summary>
     
     
-      <category term="Blog" scheme="https://yonichens.github.io/categories/Blog/"/>
+      <category term="Blog" scheme="https://yonichens.github.io/categories/blog/"/>
     
     
       <category term="hexo, travis ci" scheme="https://yonichens.github.io/tags/hexo-travis-ci/"/>
