@@ -27,8 +27,8 @@ theme_config:
 
 # Site
 title: tsukiever
-subtitle: Life is to collect, organize and mess up.
-description:
+subtitle: Life is to collect, organize and mess up with it.
+description: Some passday logs.
 keywords: 协议识别, Protocol identification, 渗透测试, Penetration test
 author: yonichens
 language: en
@@ -41,6 +41,9 @@ root: /
 permalink: archives/:title/
 permalink_defaults:
   lang: en
+pretty_urls:
+pretty_urls.trailing_index: false
+pretty_urls.trailing_html: false
 
 # Directory
 source_dir: source
@@ -55,9 +58,12 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
+auto_spacing: true
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+external_link.enable: true
+external_link.field: site
+filename_case: 1
 render_drafts: false
 post_asset_folder: true
 relative_link: true
@@ -67,7 +73,8 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+prismjs:
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -93,6 +100,7 @@ tag_map:
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
+updated_option: mtime
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -103,6 +111,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: apollo
+# theme_config: 
 
 # Show all posts in archive page using hexo-generator-archive
 archive_generator:
@@ -117,6 +126,14 @@ deploy:
   type: git
   repository: https://github.com/yonichens/yonichens.github.io.git
   branch: master
+# meta_generator:
 
 # Google Analytics
 google_analytics: UA-148845148-1
+
+# Hexo 默认会不包括 source/ 下的文件和文件夹（包括名称以下划线和 . 开头的文件和文件夹，Hexo 的 _posts 和 _data 等目录除外）。通过设置此字段将使 Hexo 处理他们并将它们复制到 source 目录下。
+# include:
+# Hexo 不包括 source/ 下的这些文件和目录
+# exclude:
+# Hexo 会忽略整个 Hexo 项目下的这些文件夹或文件
+# ignore:

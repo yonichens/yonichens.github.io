@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+modify: {{ modify }}
+tags: {{ tags }}
+category: {{ category }}
 ---
